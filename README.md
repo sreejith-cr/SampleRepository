@@ -1,2 +1,2 @@
 # SampleRepository
-Demo
+Demo Repository
