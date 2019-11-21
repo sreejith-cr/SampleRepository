@@ -1,2 +1,1 @@
-# SampleRepository
-Demo Repository
+Sample API 
